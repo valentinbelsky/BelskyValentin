@@ -1,0 +1,32 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.nav{
+	background: #CCCCCC;
+	width: 15em;
+	float: left;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.artic{
+	background: #AAAAAA;
+	margin-bottom: .2em;
+	display: table;
+}
+
+.image{
+	float: right;
+}
+
+#footer{
+	background: #CCCCCC;
+}
+
+#text_footer{
+	margin: 0;
+}

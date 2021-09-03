@@ -1,0 +1,26 @@
+.conteiner{
+	background: black;
+	color: green;
+	width: 400px;
+	max-height: 75px;
+	overflow: auto;
+	margin: 0;
+	margin: auto;
+}
+
+p{
+	margin: 0;
+}
+.list {
+	width: 350px;
+	margin: auto;
+}
+ul li{
+	list-style-type: upper-roman;
+	font-weight: bold;
+
+}
+ul li ul li{
+	list-style-type: lower-roman;
+	font-weight: normal;
+}

@@ -1,0 +1,34 @@
+#cards1 {
+	display: inline-block;
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -145px -195px;
+}
+#cards2 {
+display: inline-block;
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -435px -595px;
+}
+#cards3 {
+	display: inline-block;
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -290px -1390px;
+}
+#cards1_1 {
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -145px -195px;
+}
+#cards2_1 {
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -435px -595px;
+	margin: -180px 50px 0 40px;
+}
+#cards3_1{
+	height: 200px;
+	width: 140px;
+	background: url(../img/cards.png) -290px -1390px;
+	margin: -180px 0 0 80px;
