@@ -9,7 +9,7 @@ body {
 }
 .nav{
 	background: #CCCCCC;
-	width: 15em;
+	flex-basis: 15em;
 	height: fit-content;
 
 }
